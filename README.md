@@ -1,2 +1,2 @@
 # AppSec-CTF
-PhonePe AppSec CTF
+AppSec CTF
